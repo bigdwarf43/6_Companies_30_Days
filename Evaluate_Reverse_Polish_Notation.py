@@ -7,6 +7,8 @@
 4.if it is an operand push it on to the stack
 5.if it is an operator pop two elements from the stack and evaluate them using the operator and push the answer back into the stack.
 '''
+#link
+#https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
 # Code
 
